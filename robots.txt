@@ -16,4 +16,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://byash93-cell.github.io/theautomatewithai/sitemap.xml
+Sitemap: https://theautomatewithai-gif.github.io/theautomatewithai/sitemap.xml
